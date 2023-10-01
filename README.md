@@ -4,6 +4,6 @@ The interfaces are classified as subcatagories of the tasks in accordance with l
 
 Main and Main_1 are the ones which runs the main tasks,
 
-logManager, CustomerManager and Customer_Manager actualizes the operations and printing missions.
+logger, logManager, CustomerManager and Customer_Manager actualizes the operations and printing missions.
 
 Utilizer is the editor form for overall of the code. It is indicated as of "static" form to be remained modificable.

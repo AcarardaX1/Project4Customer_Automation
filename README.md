@@ -8,4 +8,6 @@ logger, logManager, CustomerManager and Customer_Manager actualizes the operatio
 
 Utilizer is the editor form for overall of the code. It is indicated as of "static" form to be remained modificable
 
+Customer file provides the information about the customer
+
 The general features of inheritance, class and interfaces are used throughout the program
